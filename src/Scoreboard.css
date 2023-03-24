@@ -1,0 +1,9 @@
+.scoreboard__main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    padding: 15px;
+    width: 100%;
+    background-color: grey;
+}
